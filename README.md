@@ -13,14 +13,12 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 ### Frameworks:
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
+## GitHub Profile Stats:
+
 ![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesuhas&show_icons=true&theme=dark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesuhas&hide=jupyter+notebook&theme=dark&layout=compact)
 
-## Connect with Me:
-<a href = "https://www.linkedin.com/in/suhas-thalanki-0459731a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-## Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thesuhas">
 </a>
