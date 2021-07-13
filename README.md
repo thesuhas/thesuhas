@@ -24,7 +24,7 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 
 ## Experience
 
-### Intern at the Centre for Cloud Computing and Big Data (June 2021 - Present)
+### Intern at the Centre for Cloud Computing and Big Data, PES University (June 2021 - Present)
 * Working with the Damn Vulnerable Web App.
 
 
