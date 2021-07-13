@@ -12,6 +12,8 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
 
+## Publications:
+* Comparative Study of Classifiers for Leaf Classification and Extraction of Medicinal Properties - ASIACON 2021
 
 
 ## Experience
