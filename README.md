@@ -13,7 +13,7 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 
 ![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesuhas&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesuhas&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesuhas&hide=jupyter+notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
