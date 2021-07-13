@@ -34,4 +34,9 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 ### CoVaccine
 * A Flutter-Based Decentralised Android App that automates the entire CoWIN Vaccine Booking Process.
 * Books an appointment in pincodes near the user's location, allows customising Vaccine and Fee Type preferences.
-* Can download Vaccine and Appointment Slip
+* Can download Vaccine and Appointment Slips.
+
+### Semi-Supervised Approach to Offensive Tweet Detection
+* A Semi-Supervised Learning Approach to Offensive Language Detection.
+* Implemented Semi-Supervised Algorithms such as Self-Training and Label Propagation on Doc2Vec model. 
+* Implemented using a Support Vector Machine.
