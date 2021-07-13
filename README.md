@@ -1,4 +1,4 @@
-## About Me
+## Suhas Thalanki <a href = "https://www.linkedin.com/in/suhas-thalanki-0459731a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 A Computer Science student from PES University, Bangalore who loves to code. I love building things that help people in their daily lives.
 
