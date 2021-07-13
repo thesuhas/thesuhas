@@ -16,6 +16,14 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesuhas&hide=jupyter+notebook&theme=dark&layout=compact)
 
+## Connect with Me:
+<a href = "https://www.linkedin.com/in/narendiran-arthanarieswaran-8873351a6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+## Views and Followers:
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=thesuhas">
+</a>
+<a href="https://github.com/thesuhas?tab=followers"><img src="https://img.shields.io/github/followers/thesuhas?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## Publications:
