@@ -1,7 +1,8 @@
-## Suhas Thalanki <a href = "https://www.linkedin.com/in/suhas-thalanki-0459731a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+## About Me
 
 A Computer Science student from PES University, Bangalore who loves to code. I love building things that help people in their daily lives.
 
+<a href = "https://www.linkedin.com/in/suhas-thalanki-0459731a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### Languages:
 <a href="https://github.com/thesuhas?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> 
