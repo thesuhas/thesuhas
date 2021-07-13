@@ -37,7 +37,7 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 
 ## Projects:
 
-### ![CoVaccine](https://github.com/thesuhas/vax_app)
+### [CoVaccine](https://github.com/thesuhas/vax_app)
 * A Flutter-Based Decentralised Android App that automates the entire CoWIN Vaccine Booking Process.
 * Books an appointment in pincodes near the user's location, allows customising Vaccine and Fee Type preferences.
 * Can download Vaccine and Appointment Slips.
