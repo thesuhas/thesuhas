@@ -28,3 +28,10 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 * Built the PID Controller and a path-planning algorithm.
 * Implemented a CNN to detect cracks in buildings.
 * Also built the master node used for synchronisation of various functions.
+
+## Projects:
+
+### CoVaccine
+* A Flutter-Based Decentralised Android App that automates the entire CoWIN Vaccine Booking Process.
+* Books an appointment in pincodes near the user's location, allows customising Vaccine and Fee Type preferences.
+* Can download Vaccine and Appointment Slip
