@@ -27,5 +27,5 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
     <img src="https://komarev.com/ghpvc/?username=thesuhas">
 </a>
 <a href="https://github.com/thesuhas?tab=followers"><img src="https://img.shields.io/github/followers/thesuhas?label=Followers&style=social" alt="GitHub Badge"></a>
-
-[Resume](https://drive.google.com/file/d/1DkgwDGECEX0e_s_BKR8HuxVMYXm7-28h/view?usp=sharing)
+<br><br>
+## [Resume](https://drive.google.com/file/d/1DkgwDGECEX0e_s_BKR8HuxVMYXm7-28h/view?usp=sharing)
