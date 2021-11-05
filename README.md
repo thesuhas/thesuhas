@@ -28,32 +28,4 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 </a>
 <a href="https://github.com/thesuhas?tab=followers"><img src="https://img.shields.io/github/followers/thesuhas?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-## Publications:
-* Comparative Study of Classifiers for Leaf Classification and Extraction of Medicinal Properties - ASIACON 2021
-
-
-## Experience
-
-### Intern at the Centre for Cloud Computing and Big Data, PES University (August 2021 - Present)
-* Working on detecting malicious docker containers by analysis OS-level system calls.
-
-
-### Interned at PES Innovation Lab (May - Aug 2020)
-
-* Worked on Simulating a concrete crack-detection Quad Copter in Gazebo Using ROS (Robot Operating System).
-* Built the PID Controller and a path-planning algorithm.
-* Implemented a CNN to detect cracks in buildings.
-* Also built the master node used for synchronisation of various functions.
-
-## Projects:
-
-### [CoVaccine](https://github.com/thesuhas/vax_app)
-* A Flutter-Based Decentralised Android App that automates the entire CoWIN Vaccine Booking Process.
-* Books an appointment in pincodes near the user's location, allows customising Vaccine and Fee Type preferences.
-* Can download Vaccine and Appointment Slips.
-
-### Semi-Supervised Approach to Offensive Tweet Detection
-* A Semi-Supervised Learning Approach to Offensive Language Detection.
-* Implemented Semi-Supervised Algorithms such as Self-Training and Label Propagation on Doc2Vec model. 
-* Implemented using a Support Vector Machine.
+[Resume](https://drive.google.com/file/d/1DkgwDGECEX0e_s_BKR8HuxVMYXm7-28h/view?usp=sharing)
