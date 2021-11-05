@@ -2,7 +2,7 @@
 
 A Computer Science student from PES University, Bangalore who loves to code. I love building things that help people in their daily lives.
 
-<a href = "https://www.linkedin.com/in/suhas-thalanki-0459731a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/suhas-thalanki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### Languages:
 <a href="https://github.com/thesuhas?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> 
@@ -28,4 +28,5 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 </a>
 <a href="https://github.com/thesuhas?tab=followers"><img src="https://img.shields.io/github/followers/thesuhas?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
-## [Resume](https://drive.google.com/file/d/1DkgwDGECEX0e_s_BKR8HuxVMYXm7-28h/view?usp=sharing)
+
+<h3><a href="https://drive.google.com/file/d/1DkgwDGECEX0e_s_BKR8HuxVMYXm7-28h/view?usp=sharing">Resume</a></h3>
