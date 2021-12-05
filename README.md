@@ -28,5 +28,3 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 </a>
 <a href="https://github.com/thesuhas?tab=followers"><img src="https://img.shields.io/github/followers/thesuhas?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
-
-<h3><a href="https://drive.google.com/file/d/10NqCFkd4nploYa5dkszm50hdqvJvW22p/view?usp=sharing">Resume</a></h3>
