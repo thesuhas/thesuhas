@@ -12,7 +12,7 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 
 ### Frameworks:
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-<img alt="Jupyter" src-"https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><img alt='Markdown' src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><img alt='Markdown' src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
 <img alt='spark' src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' />
 
 ### Other:
