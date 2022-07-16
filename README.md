@@ -23,7 +23,7 @@ A Computer Science student from PES University, Bangalore who loves to code. I l
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img alt='Firebase' src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' /> <img alt='git' src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' />
 <img alt='github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
 <img alt='mongo' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
-
+<img alt='shell' src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white'/>
 
 ## GitHub Profile Stats:
 
