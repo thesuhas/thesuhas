@@ -1,6 +1,6 @@
 ## About Me
 
-A Computer Science student from PES University, Bangalore who loves to code. I love building things that help people in their daily lives.
+A Master's Student at Carnegie Mellon University. My interests primarily lie in building distributed, scalable, and fault-tolerant applications.
 <br><a href = "https://www.linkedin.com/in/suhas-thalanki/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <br>
 <img alt='pop os' src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white'/>
